@@ -1,0 +1,46 @@
+body {
+    background-color: khaki;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+#inputField {
+    text-align: center;
+    border: solid black 1px;
+    background-color: aqua;
+}
+
+#butt {
+    margin-top: 10px;
+    border-radius: 10%;
+}
+
+#editor {
+    width: 440px;
+    height: 500px;
+    background-color: aqua;
+    margin: auto;
+    border: solid black 1px;
+    display: flex;
+    overflow-y: auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.lis {
+    text-decoration: none;
+    list-style: upper-alpha;
+}
+
+li {
+    word-break: break-all;
+    text-align: left;
+}
